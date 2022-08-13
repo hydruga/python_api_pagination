@@ -1,7 +1,7 @@
 import requests
 
 
-def getCharactersGender():
+def getTotalCharactersGender():
     baseurl = 'https://rickandmortyapi.com/api/character' 
     r = requests.get(baseurl)
     d = r.json()
@@ -30,5 +30,5 @@ def getCharactersGender():
     print("Total male characters in Rick and Morty ", male)
     print("Total female characters in Rick and Morty ", female)
 
-getCharacters()
+getTotalCharacterGender()
     
