@@ -30,5 +30,5 @@ def getTotalCharactersGender():
     print("Total male characters in Rick and Morty ", male)
     print("Total female characters in Rick and Morty ", female)
 
-getTotalCharacterGender()
+getTotalCharactersGender()
     
