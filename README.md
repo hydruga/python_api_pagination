@@ -9,7 +9,7 @@ Although I knew what I needed to do conceptually, I did not perform in the time 
 
 Lesson learned: 
 
-  Be specific about your proficiency and how you've used a language on your resume.
+  * Be specific about your proficiency and how you've used a language on your resume.
 
 Having never delt with pagination at all, I wanted to concentrate on page changes and retrieval of various data
 from a rest api returning json for each resource item in python.
