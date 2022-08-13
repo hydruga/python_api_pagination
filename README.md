@@ -2,7 +2,7 @@ I recently had an interview test where the final coding challenge was to retriev
 
 Challenges encountered:
 
-  1) I had only used python once to retrieve json data (and was expecting to be able to use GOLang - though go is arguably more difficult for the task)
+  1) I had only used python once to retrieve json data (and was expecting to be able to use GOLang - though go is arguably more time consuming for the task)
   2) I had never worked on paginated rest data
 
 Although I knew what I needed to do conceptually, I did not perform in the time alloted.
